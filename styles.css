@@ -1,0 +1,239 @@
+body {
+background: yellowgreen;
+}
+.title {
+color: whitesmoke;
+}
+h2:hover{
+    color: red;
+    text-decoration: underline;
+    background-color: transparent;
+}
+.h1{
+    color:black;
+}
+
+#Norway-Link:link{
+    color:blue;
+}
+#Norway-Link:visited{
+    color: pink;
+}
+table, th, td {
+    border: 1px solid black;
+  }
+  /* Style the tab */
+.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+   
+   border-top-left-radius: 25px;
+   border-top-right-radius: 25px;
+    
+  }
+  
+  
+  .tab button {
+    background-color: inherit;
+    float: right;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 40px 40px;
+    transition: 0.3s;
+    font-size: large;
+  }
+  .tab input {
+      float: right;
+      padding: 37px 10px;
+      border-radius: 25px;
+      font-size: large;
+      
+  }
+  #searchicon {
+    float: right;
+    padding: 27px 1px;
+    border-radius: 25px;
+    
+  }
+  #searchicon:hover{
+    background-color: rgb(163, 247, 156);
+  }
+  #mountainiocon{
+    padding:1px 1px;
+  }
+  
+  
+  .tab button:hover {
+    background-color: rgb(138, 148, 238);
+  }
+  
+  
+  @keyframes fadeEffect {
+    from {opacity: 0;}
+    to {opacity: 1;}
+  }
+  #mte{
+      
+    width:100%;
+    height:100%;
+    object-fit:cover;
+    position:relative;
+    }
+.title{
+    position:absolute;
+    text-align: center;
+}
+.tab1 {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+   
+   border-bottom-left-radius: 25px;
+   border-bottom-right-radius: 25px;
+    
+  }
+
+  .tablinks11 {
+    background-color: inherit;
+    float: right;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 40px 40px;
+    transition: 0.3s;
+    font-size: large;
+  }
+  .tablinks12 {
+    background-color: inherit;
+    float: center;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 40px 40px;
+    transition: 0.3s;
+    font-size: large;
+  }
+  .tablinks13 {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 40px 40px;
+    transition: 0.3s;
+    font-size: large;
+  }
+  .tablinks11:hover {
+    background-color: rgb(208, 238, 138);
+    
+  }
+  .tablinks12:hover {
+    background-color: white;
+  }
+  .tablinks13:hover {
+    
+    background-color: rgb(255, 138, 102);
+  }
+
+  .tab2 {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+   
+   border-bottom-left-radius: 25px;
+   border-bottom-right-radius: 25px;
+    
+  }
+
+  .tablinks21 {
+    background-color: inherit;
+    float: right;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 40px 40px;
+    transition: 0.3s;
+    font-size: large;
+  }
+  .tablinks22 {
+    background-color: inherit;
+    float: center;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 40px 40px;
+    transition: 0.3s;
+    font-size: large;
+  }
+  .tablinks23 {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 40px 40px;
+    transition: 0.3s;
+    font-size: large;
+  }
+  .tablinks24 {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 40px 40px;
+    transition: 0.3s;
+    font-size: large;
+  }
+  .tablinks21:hover {
+    background-color: rgb(208, 238, 138);
+  }
+  .tablinks22:hover {
+    background-color: rgb(208, 238, 138);
+  }
+  .tablinks23:hover {
+    background-color: rgb(208, 238, 138);
+  }
+  .tablinks24:hover {
+    background-color: rgb(208, 238, 138);
+  }
+  #regform:hover{
+    background-color: rgb(163, 247, 156);
+  }
+  #regform1 {
+    float: left;
+    padding: 80px 100px;
+    border-radius: 25px;
+    font-size: large;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    
+}
+#regform {
+    float: left;
+    padding: 10px 1px;
+    border-radius: 5px;
+    border-style: double;
+    margin-top: 60px;
+
+    
+  }
+  #noi{
+    background-color: inherit;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    color:black;
+  }
+
+  #tablinksbot:hover {
+    background-color: inherit;
+    float: right;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    
+  }
